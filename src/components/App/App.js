@@ -1,17 +1,14 @@
 import React from 'react';
-import MapboxMap from '../MapboxMap/MapboxMap';
+import BeerBikeTour from '../BeerBikeTour/BeerBikeTour';
 import './App.css';
 
-import mainRoute from '../../data/main-route.json';
 
 
 function App() {
 	return (
 	  	<div className="App">
-	  		<h1>React template</h1>
-	  		<MapboxMap
-	  			layers={[mainRoute]}
-	  		></MapboxMap>
+	  		<h1>Beer bike tour</h1>
+	  		<BeerBikeTour></BeerBikeTour>
 	  	</div>
 	);
 }
