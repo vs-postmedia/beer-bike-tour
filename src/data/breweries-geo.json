@@ -41,7 +41,7 @@
     "lon": -123.0957,
     "lat": 49.2843,
     "latlon": "49.284319,-123.095659",
-    "order": 5
+    "order": 3
   },
   {
     "address": "375 WATER STREET, VANCOUVER, BRITISH COLUMBIA",
@@ -52,7 +52,7 @@
     "lon": -123.1105,
     "lat": 49.2849,
     "latlon": "49.284867,-123.110501",
-    "order": 6
+    "order": 4
   },
   {
     "address": "1339 RAILSPUR ALLEY, VANCOUVER, BRITISH COLUMBIA",
@@ -74,7 +74,7 @@
     "lon": -123.0951,
     "lat": 49.2815,
     "latlon": "49.281458,-123.095106",
-    "order": 8
+    "order": 2
   },
   {
     "address": "2148 MAIN ST VANCOUVER BRITISH COLUMBIA",

@@ -8,20 +8,18 @@ import eastRoute from '../../data/east-route.json';
 import dtRoute from '../../data/dt-route.json';
 
 
-const mapRoutes = [
-	{
+const mapRoutes = [{
 		route: mainRoute, 
 		colour: 'orange'
 	},
 	{
 		route: eastRoute,
-		colour:  'darkmagenta'
+		colour: 'darkmagenta'
 	},
 	{
 		route: dtRoute,
 		colour: 'steelblue'
-	}
-];
+}];
 
 
 // map tiles & attribution
