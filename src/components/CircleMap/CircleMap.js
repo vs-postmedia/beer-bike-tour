@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Map, TileLayer, Polyline } from 'react-leaflet';
+import { Map, /*TileLayer,*/ Polyline } from 'react-leaflet';
 import MapboxGLLayer from '../MapboxGLLayer/MapboxGLLayer';
 import BreweryMarker from '../BreweryMarker/BreweryMarker';
 import MapStyle from '../../data/map-style-basic-v8.json';

@@ -8,7 +8,9 @@
     "lon": -123.1211,
     "lat": 49.2756,
     "latlon": "49.275569,-123.121144",
-    "order": 1
+    "order": 1,
+    "rating": 67,
+    "img_title": "yaletown.jpg"
   },
   {
     "address": "1441 CARTWRIGHT ST., VANCOUVER, BRITISH COLUMBIA",
@@ -19,18 +21,8 @@
     "lon": -123.1357,
     "lat": 49.2705,
     "latlon": "49.270502,-123.135661",
-    "order": 2
-  },
-  {
-    "address": "1253 JOHNSTON STREET, VANCOUVER, BRITISH COLUMBIA",
-    "id": 30,
-    "name": "Dockside Brewing Co.",
-    "type": "brewpub",
-    "group": "downtown",
-    "lon": -123.1312,
-    "lat": 49.2695,
-    "latlon": "49.269486,-123.131177",
-    "order": 3
+    "order": 2,
+    "rating": 61
   },
   {
     "address": "55 DUNLEVY ST, VANCOUVER, BRITISH COLUMBIA",
@@ -41,7 +33,9 @@
     "lon": -123.0957,
     "lat": 49.2843,
     "latlon": "49.284319,-123.095659",
-    "order": 3
+    "order": 3,
+    "rating": 67,
+    "img_title": "postmark.jpg"
   },
   {
     "address": "375 WATER STREET, VANCOUVER, BRITISH COLUMBIA",
@@ -52,7 +46,9 @@
     "lon": -123.1105,
     "lat": 49.2849,
     "latlon": "49.284867,-123.110501",
-    "order": 4
+    "order": 4,
+    "rating": 73,
+    "img_title": "steamworks.jpg"
   },
   {
     "address": "1339 RAILSPUR ALLEY, VANCOUVER, BRITISH COLUMBIA",
@@ -63,7 +59,8 @@
     "lon": -123.1339,
     "lat": 49.2702,
     "latlon": "49.270194,-123.133851",
-    "order": 7
+    "order": 7,
+    "rating": 73
   },
   {
     "address": "403 EAST HASTINGS STREET, VANCOUVER, BRITISH COLUMBIA",
@@ -74,7 +71,8 @@
     "lon": -123.0951,
     "lat": 49.2815,
     "latlon": "49.281458,-123.095106",
-    "order": 2
+    "order": 2,
+    "rating": 60
   },
   {
     "address": "2148 MAIN ST VANCOUVER BRITISH COLUMBIA",
@@ -85,7 +83,9 @@
     "lon": -123.1004,
     "lat": 49.2658,
     "latlon": "49.265763,-123.100446",
-    "order": 1
+    "order": 1,
+    "rating": 90,
+    "img_title": "brassneck.jpg"
   },
   {
     "address": "261 E. 7TH AVE VANCOUVER BRITISH COLUMBIA",
@@ -96,7 +96,9 @@
     "lon": -123.0992,
     "lat": 49.2647,
     "latlon": "49.264679,-123.099204",
-    "order": 2
+    "order": 2,
+    "rating": 76,
+    "img_title": "main-street.jpg"
   },
   {
     "address": "295 EAST 1ST AVENUE VANCOUVER BRITISH COLUMBIA",
@@ -107,7 +109,9 @@
     "lon": -123.0964,
     "lat": 49.269,
     "latlon": "49.268966,-123.096435",
-    "order": 3
+    "order": 3,
+    "rating": 66,
+    "img_title": "red-truck.jpg"
   },
   {
     "address": "54 EAST 4TH AVENUE VANCOUVER BRITISH COLUMBIA",
@@ -118,7 +122,9 @@
     "lon": -123.1036,
     "lat": 49.2673,
     "latlon": "49.267293,-123.103625",
-    "order": 4
+    "order": 4,
+    "rating": 75,
+    "img_title": "rb.jpg"
   },
   {
     "address": "97 E 2ND AVE VANCOUVER BRITISH COLUMBIA",
@@ -129,7 +135,9 @@
     "lon": -123.1035,
     "lat": 49.2695,
     "latlon": "49.269459,-123.103462",
-    "order": 5
+    "order": 5,
+    "rating": 69,
+    "img_title": "brewhall.jpg"
   },
   {
     "address": "1830 ONTARIO ST VANCOUVER BRITISH COLUMBIA",
@@ -140,7 +148,9 @@
     "lon": -123.1045,
     "lat": 49.2687,
     "latlon": "49.268670,-123.104535",
-    "order": 6
+    "order": 6,
+    "rating": 64,
+    "img_title": "faculty.jpg"
   },
   {
     "address": "20 4TH AVE EAST VANCOUVER BRITISH COLUMBIA",
@@ -151,18 +161,22 @@
     "lon": -123.1043,
     "lat": 49.2672,
     "latlon": "49.267229,-123.104256",
-    "order": 7
+    "order": 7,
+    "rating": 61,
+    "img_title": "electric-bicycle.jpg"
   },
   {
     "address": "310 WEST 4TH AVE VANCOUVER BRITISH COLUMBIA",
     "id": 12,
-    "name": "Big Rock Brewery - Vancouver",
+    "name": "Big Rock Brewery",
     "type": "brewpub",
     "group": "main",
     "lon": -123.1112,
     "lat": 49.2673,
     "latlon": "49.267267,-123.111211",
-    "order": 8
+    "order": 8,
+    "rating": 72,
+    "img_title": "big-rock.jpg"
   },
   {
     "address": "25 W. 8TH AVE. VANCOUVER BRITISH COLUMBIA",
@@ -173,7 +187,9 @@
     "lon": -123.1055,
     "lat": 49.264,
     "latlon": "49.264009,-123.105543",
-    "order": 9
+    "order": 9,
+    "rating": 69,
+    "img_title": "33-brewing-cropped.jpg"
   },
   {
     "address": "15 W 8TH AVE VANCOUVER BRITISH COLUMBIA",
@@ -184,7 +200,9 @@
     "lon": -123.1053,
     "lat": 49.2641,
     "latlon": "49.264105,-123.105315",
-    "order": 10
+    "order": 10,
+    "rating": 77,
+    "img_title": "33-acres.jpg"
   },
   {
     "address": "1507 POWELL ST, VANCOUVER, BRITISH COLUMBIA",
@@ -195,7 +213,9 @@
     "lon": -123.0738,
     "lat": 49.2834,
     "latlon": "49.283391,-123.073794",
-    "order": 1
+    "order": 1,
+    "rating": 67,
+    "img_title": "andina.jpg"
   },
   {
     "address": "1357 POWELL STREET, VANCOUVER, BRITISH COLUMBIA",
@@ -206,7 +226,9 @@
     "lon": -123.0759,
     "lat": 49.2833,
     "latlon": "49.283329,-123.075884",
-    "order": 2
+    "order": 2,
+    "rating": 73,
+    "img_title": "powell.jpg"
   },
   {
     "address": "1338 FRANKLIN STREET, VANCOUVER, BRITISH COLUMBIA",
@@ -217,7 +239,9 @@
     "lon": -123.0762,
     "lat": 49.2822,
     "latlon": "49.282178,-123.076181",
-    "order": 3
+    "order": 3,
+    "rating": 69,
+    "img_title": "callister.jpg"
   },
   {
     "address": "895 E. HASTINGS ST, VANCOUVER, BRITISH COLUMBIA",
@@ -228,7 +252,9 @@
     "lon": -123.0851,
     "lat": 49.2812,
     "latlon": "49.281228,-123.085070",
-    "order": 4
+    "order": 4,
+    "rating": 67,
+    "img_title": "strathcona.jpg"
   },
   {
     "address": "1123 VENABLES STREET, VANCOUVER, BRITISH COLUMBIA",
@@ -239,7 +265,9 @@
     "lon": -123.0805,
     "lat": 49.2769,
     "latlon": "49.276907,-123.080521",
-    "order": 5
+    "order": 5,
+    "rating": 70,
+    "img_title": "luppolo.jpg"
   },
   {
     "address": "1345 CLARK DRIVE, VANCOUVER, BRITISH COLUMBIA",
@@ -250,7 +278,9 @@
     "lon": -123.0777,
     "lat": 49.2724,
     "latlon": "49.272369,-123.077669",
-    "order": 6
+    "order": 6,
+    "rating": 73,
+    "img_title": "strange-fellows.jpg"
   },
   {
     "address": "1351 ADANAC ST., VANCOUVER, BRITISH COLUMBIA",
@@ -261,7 +291,9 @@
     "lon": -123.076,
     "lat": 49.2779,
     "latlon": "49.277892,-123.076003",
-    "order": 7
+    "order": 7,
+    "rating": 70,
+    "img_title": "off-the-rail.jpg"
   },
   {
     "address": "1488 ADANAC ST., VANCOUVER, BRITISH COLUMBIA",
@@ -272,7 +304,9 @@
     "lon": -123.0746,
     "lat": 49.2774,
     "latlon": "49.277403,-123.074588",
-    "order": 8
+    "order": 8,
+    "rating": 64,
+    "img_title": "bomber.jpg"
   },
   {
     "address": "1675 VENABLES ST., VANCOUVER, BRITISH COLUMBIA",
@@ -283,7 +317,9 @@
     "lon": -123.0711,
     "lat": 49.2768,
     "latlon": "49.276784,-123.071102",
-    "order": 9
+    "order": 9,
+    "rating": 72,
+    "img_title": "east-van.jpg"
   },
   {
     "address": "1950 TRIUMPH STREET, VANCOUVER, BRITISH COLUMBIA",
@@ -294,7 +330,9 @@
     "lon": -123.0644,
     "lat": 49.2838,
     "latlon": "49.283777,-123.064397",
-    "order": 10
+    "order": 10,
+    "rating": 76,
+    "img_title": "parallel49.jpg"
   },
   {
     "address": "1967 TRIUMPH STREET, VANCOUVER, BRITISH COLUMBIA",
@@ -305,7 +343,9 @@
     "lon": -123.0644,
     "lat": 49.2842,
     "latlon": "49.284244,-123.064398",
-    "order": 11
+    "order": 11,
+    "rating": 69,
+    "img_title": "coal-harbour.jpg"
   },
   {
     "address": "310 COMMERCIAL DRIVE, VANCOUVER, BRITISH COLUMBIA",
@@ -316,6 +356,8 @@
     "lon": -123.0702,
     "lat": 49.282,
     "latlon": "49.282004,-123.070210",
-    "order": 12
+    "order": 12,
+    "rating": 81,
+    "img_title": "storm.jpg"
   }
 ]
