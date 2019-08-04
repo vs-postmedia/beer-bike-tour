@@ -41,7 +41,8 @@ export class BeerBikeTour extends Component {
 		const lat = params.get('lat') ? parseFloat(params.get('lat')) : this.map_options.lat;
 		const lon = params.get('lon') ? parseFloat(params.get('lon')) : this.map_options.lon;
 		const zoom = params.get('zoom') ? parseInt(params.get('zoom')) : this.map_options.zoom;
-		console.log(lat, lon, zoom, this.props)
+		
+		console.log(lat, lon, zoom, params)
 
 		return (
 			<CircleMap 
