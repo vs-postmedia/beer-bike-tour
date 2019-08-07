@@ -9,5 +9,3 @@ lat/lon coordinates for 3 section:
 
 TO DO:
 • browser tests
-
-49.278788, -123.077172
