@@ -16,7 +16,3 @@ function App() {
 
 export default App;
 
-
-// East route: zoom=14&lat=49.280521&lon=-123.075
-// Main route: defaults
-// Downtown route: /?zoom=14&lat=49.280521&lon=-123.1075
