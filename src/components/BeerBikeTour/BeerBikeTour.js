@@ -10,15 +10,15 @@ import dtRoute from '../../data/dt-route.json';
 
 const mapRoutes = [{
 		route: mainRoute, 
-		colour: 'orange'
+		colour: '#F26B21'
 	},
 	{
 		route: eastRoute,
-		colour: 'darkmagenta'
+		colour: '#795b9e'
 	},
 	{
 		route: dtRoute,
-		colour: 'steelblue'
+		colour: '#0062A3'
 }];
 
 

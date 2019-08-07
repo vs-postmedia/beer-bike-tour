@@ -1,17 +1,17 @@
 .downtown {
-	color: steelblue;
-	fill: steelblue;
+	color: var(--blue01);
+	fill: var(--blue01);
 	stroke: white;
 }
 
 .east {
-	color: darkmagenta;
-	fill: darkmagenta;
+	color: var(--dark_purple01);
+	fill: var(--dark_purple01);
 	stroke: white;
 }
 
 .main {
-	color: orange;
-	fill: orange;
+	color: var(--orange01);
+	fill: var(--orange01);
 	stroke: white;
 }

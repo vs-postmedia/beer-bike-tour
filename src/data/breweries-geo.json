@@ -27,7 +27,7 @@
   {
     "address": "55 DUNLEVY ST, VANCOUVER, BRITISH COLUMBIA",
     "id": 21,
-    "name": "Postmark Brewing / Urban Winery",
+    "name": "Postmark Brewing",
     "type": "brewery",
     "group": "downtown",
     "lon": -123.0957,
@@ -189,7 +189,7 @@
     "latlon": "49.264009,-123.105543",
     "order": 9,
     "rating": 69,
-    "img_title": "33-brewing-cropped.jpg"
+    "img_title": "33-brewing.jpg"
   },
   {
     "address": "15 W 8TH AVE VANCOUVER BRITISH COLUMBIA",
