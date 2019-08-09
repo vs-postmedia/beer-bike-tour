@@ -5,6 +5,8 @@ import BreweryMarker from '../BreweryMarker/BreweryMarker';
 import MapStyle from '../../data/map-style-basic-v8.json';
 
 import './CircleMap.css';
+import 'leaflet/dist/leaflet.css';
+import 'mapbox-gl/dist/mapbox-gl.css';
 import MAPBOX_TOKEN from '../../data/mapbox-token';
 
 
@@ -17,7 +19,7 @@ export class CircleMap extends Component {
 		return (
 			<Map 
 				center={this.props.center} 
-				zoom={this.props.zoom}>
+				zoom={this.props.zoom} >
 		
 				<MapboxGLLayer
 					accessToken={MAPBOX_TOKEN}
