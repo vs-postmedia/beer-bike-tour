@@ -8,4 +8,9 @@ lat/lon coordinates for 3 section:
 • Downtown route: /?zoom=14&lat=49.280521&lon=-123.1075
 
 
-<iframe src="" style="width:100%;height:510px;" scrolling="yes"></iframe>
+<iframe src="https://vs-postmedia.github.io/beer-bike-tour/" style="width:100%;height:510px;" scrolling="yes"></iframe>
+
+
+<iframe src="https://vs-postmedia.github.io/beer-bike-tour/?zoom=15&lat=49.278009&lon=-123.075172" style="width:100%;height:510px;" scrolling="yes"></iframe>
+
+<iframe src="https://vs-postmedia.github.io/beer-bike-tour/?zoom=14&lat=49.280521&lon=-123.1075" style="width:100%;height:510px;" scrolling="yes"></iframe>
