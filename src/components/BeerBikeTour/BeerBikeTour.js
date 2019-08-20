@@ -30,7 +30,7 @@ const attribution = '&copy;<a href=&quot;http://osm.org/copyright&quot;>OpenStre
 export class BeerBikeTour extends Component {
 	map_options = {
 		lat: 49.266943,
-		lon: -123.106182,
+		lon: -123.103182,
 		maxZoom: 18,
 		minZoom: 12,
 		zoom: 15
@@ -41,8 +41,6 @@ export class BeerBikeTour extends Component {
 		const lat = params.get('lat') ? parseFloat(params.get('lat')) : this.map_options.lat;
 		const lon = params.get('lon') ? parseFloat(params.get('lon')) : this.map_options.lon;
 		const zoom = params.get('zoom') ? parseInt(params.get('zoom')) : this.map_options.zoom;
-		
-		console.log(lat, lon, zoom, params)
 
 		return (
 			<CircleMap 

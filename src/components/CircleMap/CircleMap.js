@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import { Map, /*TileLayer,*/ Polyline } from 'react-leaflet';
 import MapboxGLLayer from '../MapboxGLLayer/MapboxGLLayer';
 import BreweryMarker from '../BreweryMarker/BreweryMarker';
-import MapStyle from '../../data/map-style-basic-v8.json';
 
 import './CircleMap.css';
 import 'leaflet/dist/leaflet.css';
@@ -11,9 +10,6 @@ import MAPBOX_TOKEN from '../../data/mapbox-token';
 
 
 export class CircleMap extends Component {
-	componentDidMount() {
-
-	}
 
 	render() {
 		return (
@@ -23,8 +19,8 @@ export class CircleMap extends Component {
 		
 				<MapboxGLLayer
 					accessToken={MAPBOX_TOKEN}
-					// style='mapbox://styles/mapbox/streets-v9'/>
-					style={MapStyle}/>
+					attribution={this.props.attribution}
+					style='mapbox://styles/mapbox/basic-v8'/>
 
 					{
 						this.props.routes.map(d => {
